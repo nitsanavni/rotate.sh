@@ -43,5 +43,5 @@ One minute rotations, `code` editor:
 Or:
 
 ```shell
-§
+EDITOR=code ./rotate.sh 60
 ```
