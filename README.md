@@ -1,6 +1,6 @@
 # rotate.sh
 
-A simple rotation timer.
+A simple rotation timer. Useful when using a single development machine, e.g. [gitpod](https://www.gitpod.io/docs/introduction).
 
 It opens itself (the script file) in the editor every X seconds.
 
