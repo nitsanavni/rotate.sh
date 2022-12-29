@@ -25,3 +25,23 @@ And now Ringo is typing:
 # Ringo
 # Paul
 ```
+
+## Usage
+
+```shell
+./rotate.sh
+```
+
+## Customize
+
+One minute rotations, `code` editor:
+
+```shell
+./rotate.sh 60 code
+```
+
+Or:
+
+```shell
+§
+```
